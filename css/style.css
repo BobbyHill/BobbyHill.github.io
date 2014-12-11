@@ -1,8 +1,10 @@
-body{
-	color: pink;
-}	
-
-
 p {
 	color: red;
 }	
+
+body{
+	color: pink;
+	background-color: blue;
+}	
+
+
