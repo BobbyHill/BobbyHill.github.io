@@ -1,10 +1,19 @@
 p {
 	color: red;
 }	
-
+h1 {
+	text-align: center;
+	padding: 30px;
+	border-style: groove;
+	
+}
 body{
 	color: pink;
 	background-color: blue;
+	font-family: serif;
+	margin: 20px;
+	padding-left: 40px;
+	padding-bottom: 
 }	
 
 
