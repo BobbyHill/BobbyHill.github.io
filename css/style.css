@@ -1,5 +1,5 @@
 p {
-	color: red;
+	color: #000000;
 }	
 h1 {
 	text-align: center;
@@ -8,8 +8,8 @@ h1 {
 	
 }
 body{
-	color: pink;
-	background-color: blue;
+	color: #FFFF00;
+	background-color: #47B5FF;
 	font-family: serif;
 	margin: 20px;
 	padding-left: 40px;
