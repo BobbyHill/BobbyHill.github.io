@@ -16,4 +16,25 @@ body{
 	padding-bottom: 
 }	
 
+nav{
+	background-color: #FF8756
+	position: fixed;
+	top: 0;
+	left: 0;
+	
+}
 
+nav a{
+	text-decoration: none;
+}
+
+nav ul{
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+
+nav li{
+	display: inline;
+	padding-left: 20px;
+}
